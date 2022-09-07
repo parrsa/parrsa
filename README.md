@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey guys 👋 😄<br><br>I'm Seyed Parsa Solimaniya, a back-end developer who is in love with Javascript and React JS and everything that is kinda related to it. ds
+Hey guys 👋 😄<br><br>I'm Seyed Parsa Solimaniya, a Front-End developer who is in love with Javascript and React JS and everything that is kinda related to it. 
 
 
 ## 🌐 Socials:
