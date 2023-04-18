@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hey guys 👋 😄<br><br>Hello! I am a seasoned Frontend Web Developer and a passionate Programming Content Creator. I bring a unique blend of technical skills and creativity to the table. As a Frontend Web Developer, I specialize in creating beautiful and functional websites and web applications that are optimized for user experience. My expertise lies in HTML, CSS, JavaScript, React, etc.
-I am open to new opportunities to collaborate, learn and grow as a developer and content creator. If you're interested in my skills and expertise and got a great opportunity for me then please don't hesitate to connect with me. Let's work together to bring your ideas to life and make a real impact!
+Hey guys 👋 😄<br><br>Hello! Hello! I am an experienced front-end web developer and a passionate programming content creator. I bring to the table a unique combination of technical skills and creativity. As a frontend web developer, I specialize in creating beautiful and functional websites and web applications that are optimized for user experience. My expertise is in Html,Css,Javascript,React js,Next js,Tsilwind css .
+I look forward to working with you for new opportunities to collaborate, learn and grow as a developer and content creator.!
 
 
 ## 🌐 Socials:
