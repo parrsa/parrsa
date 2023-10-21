@@ -1,6 +1,9 @@
 # 💫 About Me:
-Hey guys 👋 😄<br><br>Hello! Hello! I am an experienced front-end web developer and a passionate programming content creator. I bring to the table a unique combination of technical skills and creativity. As a frontend web developer, I specialize in creating beautiful and functional websites and web applications that are optimized for user experience. My expertise is in Html,Css,Javascript,React js,Next js,Tsilwind css .
-I look forward to working with you for new opportunities to collaborate, learn and grow as a developer and content creator.!
+Hey guys 👋 😄<br><brI am Parsa , a 21-year-old student from Sanandaj, currently in my second semester of a Bachelor's degree program in Software Engineering. I have a two-year experience in the field of website design, specifically in Front-End development. My programming skills include HTML, CSS, JavaScript, ReactJS, and TypeScript. Additionally, I have worked with various libraries and frameworks such as Tailwind CSS, Bootstrap, Material UI, Formik, Yup,and Axios. I have a basic knowledge of the famous vcs Git. I also have experience working with GitHub and GitLab ( as a matter of fact I usually use the CLI  version of git ) and I think I would be a good team-player in teams. 
+
+
+
+You can find my projects on GitHub under the username "parrsa" and on GitLab under "parsasoli.77". Thank you for taking the time to read my resume. I hope we can have a productive collaboration or establish a valuable connection. Thank you.
 
 
 ## 🌐 Socials:
