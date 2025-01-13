@@ -1,7 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Parsa Soliman Niya</h1>
-<h3 align="center">A passionate frontend developer from Iran I am Parsa, a 22 - year - old student from Sanandaj, currently in my second semester of a Bachelor 's degree program in Software Engineering. I have a two-year experience in the field of website design, specifically in Front-End development. My programming skills include HTML, CSS, JavaScript, ReactJS, and TypeScript. Additionally, I have worked with various libraries and frameworks such as Tailwind CSS, Bootstrap, Material UI, Formik, Yup,and Axios. I have a basic knowledge of the famous vcs Git. I also have experience working with GitHub and GitLab ( as a matter of fact I usually use the CLI version of git ) and I think I would be a good team-player in teams. You can find my projects on GitHub under the username "parrsa" and on GitLab under "parsasoli.77".Thank you for taking the time to read my resume.I hope we can have a productive collaboration or establish a valuable connection.Thank you.</h3>
-
+<h3 align="center">A passionate frontend developer from Iran 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parrsa&label=Profile%20views&color=0e75b6&style=flat" alt="parrsa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parrsa" alt="parrsa" /></a> </p>
