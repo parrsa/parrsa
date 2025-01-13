@@ -1,3 +1,12 @@
+# 💫 About Me:
+Hey guys👋😄 < br > < br >
+    I am Parsa, a 22 - year - old student from Sanandaj, currently in my second semester of a Bachelor 's degree program in Software Engineering. I have a two-year experience in the field of website design, specifically in Front-End development. My programming skills include HTML, CSS, JavaScript, ReactJS, and TypeScript. Additionally, I have worked with various libraries and frameworks such as Tailwind CSS, Bootstrap, Material UI, Formik, Yup,and Axios. I have a basic knowledge of the famous vcs Git. I also have experience working with GitHub and GitLab ( as a matter of fact I usually use the CLI  version of git ) and I think I would be a good team-player in teams. 
+
+
+
+You can find my projects on GitHub under the username "parrsa"
+and on GitLab under "parsasoli.77".Thank you
+for taking the time to read my resume.I hope we can have a productive collaboration or establish a valuable connection.Thank you.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parsa4_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parsa-soli-0409661a5/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@parrsa) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/17091786/parsa-soli) 
