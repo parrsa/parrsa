@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hey guys👋😄 < br > < br >
-    I am Parsa, a 22 - year - old student from Sanandaj, currently in my second semester of a Bachelor 's degree program in Software Engineering. I have a two-year experience in the field of website design, specifically in Front-End development. My programming skills include HTML, CSS, JavaScript, ReactJS, and TypeScript. Additionally, I have worked with various libraries and frameworks such as Tailwind CSS, Bootstrap, Material UI, Formik, Yup,and Axios. I have a basic knowledge of the famous vcs Git. I also have experience working with GitHub and GitLab ( as a matter of fact I usually use the CLI  version of git ) and I think I would be a good team-player in teams. 
+Hey guys👋😄 
+I am Parsa, a 22 - year - old student from Sanandaj, currently in my second semester of a Bachelor 's degree program in Software Engineering. I have a two-year experience in the field of website design, specifically in Front-End development. My programming skills include HTML, CSS, JavaScript, ReactJS, and TypeScript. Additionally, I have worked with various libraries and frameworks such as Tailwind CSS, Bootstrap, Material UI, Formik, Yup,and Axios. I have a basic knowledge of the famous vcs Git. I also have experience working with GitHub and GitLab ( as a matter of fact I usually use the CLI  version of git ) and I think I would be a good team-player in teams. 
 
 
 
