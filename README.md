@@ -9,7 +9,6 @@
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/parsa-soli-0409661a5/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/parrsa)
 [![GitLab](https://img.shields.io/badge/GitLab-View-orange?logo=gitlab)](https://gitlab.com/parsasoli.77)
 [![Medium](https://img.shields.io/badge/Medium-Read-black?logo=medium)](https://medium.com/@parrsa)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Ask_FE7A16?logo=stackoverflow)](https://stackoverflow.com/users/17091786/parsa-soli)
