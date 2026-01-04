@@ -1,31 +1,169 @@
-# 💫 About Me:
-Hey guys👋😄 
-<br/>
-I am Parsa, a 23 - year - old student from Sanandaj, currently in my second semester of a Bachelor 's degree program in Software Engineering. I have a two-year experience in the field of website design, specifically in Front-End development. My programming skills include HTML, CSS, JavaScript, ReactJS, and TypeScript. Additionally, I have worked with various libraries and frameworks such as Tailwind CSS, Bootstrap, Material UI, Formik, Yup,and Axios. I have a basic knowledge of the famous vcs Git. I also have experience working with GitHub and GitLab ( as a matter of fact I usually use the CLI  version of git ) and I think I would be a good team-player in teams. 
+# 💫 About Me
 
+👋 Hello! I'm Parsa Soli, a passionate and dedicated **Frontend Developer** with over 3 years of professional experience building modern, responsive web applications. I'm currently a **Senior Frontend Developer** at RRF-Co, working with cutting-edge technologies like React.js, Next.js, and TypeScript.
 
-
-You can find my projects on GitHub under the username "parrsa"
-and on GitLab under "parsasoli.77".Thank you
-for taking the time to read my resume.I hope we can have a productive collaboration or establish a valuable connection.Thank you.
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parsa4_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parsa-soli-0409661a5/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@parrsa) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/17091786/parsa-soli) 
-
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=parrsa&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=parrsa&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parrsa&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=parrsa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🎓 Pursuing Bachelor's in Software Engineering | 🎯 Frontend Specialist | 🚀 Tech Leader
 
 ---
-[![](https://visitcount.itsvg.in/api?id=parrsa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/parsa-soli-0409661a5/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/parrsa)
+[![GitLab](https://img.shields.io/badge/GitLab-View-orange?logo=gitlab)](https://gitlab.com/parsasoli.77)
+[![Medium](https://img.shields.io/badge/Medium-Read-black?logo=medium)](https://medium.com/@parrsa)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Ask_FE7A16?logo=stackoverflow)](https://stackoverflow.com/users/17091786/parsa-soli)
+
+---
+
+## 🏢 Professional Journey
+
+### **Senior Frontend Developer** @ RRF-Co
+**Sep 2025 - Present** | Tehran, Iran | On-site
+- Developing scalable applications with React.js & Next.js
+- Leading frontend architecture decisions
+- Implementing advanced state management
+- **Tech:** React.js, Next.js, TypeScript, Redux, React Query, Tailwind CSS
+
+### **Lead Frontend Developer** @ CodeNight  
+**Mar 2024 - Jan 2025** | Kurdistan, Iran | On-site
+- Led team of frontend developers
+- Architected complex frontend solutions
+- Established development workflows
+- **Tech:** React.js, TypeScript, Tailwind CSS, Redux, React Query, i18n, Vite
+
+### **Lead Frontend Developer** @ Birkar System
+**Mar 2023 - Nov 2024** | Sanandaj, Iran | On-site
+- Managed frontend development lifecycle
+- Implemented design systems with Material-UI
+- Performance optimization & SEO
+- **Tech:** React.js, TypeScript, Material-UI, Redux, Axios, Formik
+
+### **Junior Frontend Developer** @ e-sanandaj.com
+**Mar 2022 - Jan 2023** | Sanandaj, Iran
+- Built responsive websites and web applications
+- UI/UX implementation from designs
+- Cross-browser compatibility
+- **Tech:** HTML5, CSS3, Bootstrap, JavaScript, React.js
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages & Core**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white)
+
+### **Styling & UI**
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink?style=flat&logo=sass&logoColor=white)
+
+### **Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### **Additional Technologies**
+- **State Management:** Redux Toolkit, Context API, Zustand
+- **Forms:** React Hook Form, Formik, Yup
+- **API Integration:** REST, Axios, React Query
+- **Internationalization:** next-intl, i18next
+- **Build Tools:** Vite, Webpack
+- **Testing:** Jest, React Testing Library
+- **Deployment:** Vercel, Netlify
+
+---
+### 📊 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=parrsa&theme=github-dark&hide_border=true&area=true&custom_title=Parsa's%20Contribution%20Graph)
+---
+
+## 🎯 Core Competencies
+
+### **Technical Leadership** 🎖️
+- Team mentorship & technical guidance
+- Code review & quality assurance
+- Architecture planning & technical decisions
+- Project estimation & planning
+
+### **Development Excellence** ⚡
+- Component-driven architecture
+- Performance optimization techniques
+- Mobile-first responsive design
+- SEO implementation & optimization
+- Accessibility standards (WCAG)
+- Cross-browser compatibility
+
+### **Soft Skills** 🤝
+- Effective communication & collaboration
+- Problem-solving & analytical thinking
+- Adaptability to new technologies
+- Time management & meeting deadlines
+- Client & stakeholder communication
+
+---
+
+## 🏆 Notable Projects & Achievements
+
+### **Professional Projects**
+- **RRF-Co Platform:** Large-scale enterprise application with Next.js
+- **CodeNight Dashboard:** Real-time analytics dashboard with React Query
+- **Birkar System Admin Panel:** Comprehensive admin panel with Material-UI
+- **e-sanandaj.com:** E-commerce platform with responsive design
+
+### **Open Source Contributions**
+- Active contributor to frontend communities
+- Technical articles on Medium
+- Stack Overflow answers & solutions
+- Mentoring junior developers
+
+---
+
+## 📝 Development Philosophy
+
+> **"Code is like humor. When you have to explain it, it's bad."** - Cory House
+
+**My Development Principles:**
+1. **Clean Code First:** Readable, maintainable, and well-documented
+2. **User-Centric Approach:** Intuitive UX and accessibility for all
+3. **Performance Matters:** Fast loading and smooth interactions
+4. **Continuous Learning:** Always exploring new technologies
+5. **Knowledge Sharing:** Mentoring and community contribution
+
+**Why Work With Me?**
+- 🎯 **Proven track record** in leading frontend projects
+- 💡 **Innovative solutions** to complex problems
+- 🤝 **Excellent team player** and communicator
+- 📈 **Results-driven** with focus on business impact
+- 🔄 **Agile mindset** with adaptability to change
+
+---
+
+<div align="center">
+
+## 🚀 **Let's Build Something Amazing Together!**
+
+📫 **Contact Me:**
+- **Email:** parsasoli.77@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/parsa-soli-0409661a5/](https://www.linkedin.com/in/parsa-soli-0409661a5/)
+- **GitHub:** [https://github.com/parrsa](https://github.com/parrsa)
+
+⭐ **Check out my repositories and don't forget to star the interesting ones!**
+
+[![Visitors](https://komarev.com/ghpvc/?username=parrsa&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/parrsa)
+
+</div>
+
+---
+
+*Last Updated: January 2025 | Profile crafted with ❤️ by Parsa Soli*
